@@ -1,8 +1,3 @@
----
-title: Mini Project Information
-tags:
-description: Unweighted Data Subsampling via Influence Function
----
 
 # Mini Project Information
 ## Unweighted Data Subsampling via Influence Function
